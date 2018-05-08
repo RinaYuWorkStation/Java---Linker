@@ -15,11 +15,10 @@ Each instruction is of 4 kinds. **I**mmediate, **A**bsolute, **R**elative and **
 
 # How to run 
 
-please use command line argument to link the file, by run->run configuration->arguments->program arguments: type in the .txt file name. 
+javac Linker.java
+java Linker.java input.txt
 
-You would have to put the .txt file under the java project (I did all this in eclipse,  not sure about others)
-
-after putting the file in command line argument, hit run and the result should appear
+Note May 8, 2018: This program I retrieved from 2016 might have a bit problem right now, since I'm in middle of final week I'll look into it later
 
 
 #  Sample input 1 :

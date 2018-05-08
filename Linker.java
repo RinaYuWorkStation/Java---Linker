@@ -19,6 +19,7 @@ public class Linker {
 		ArrayList<Integer> symbolDef = new ArrayList<Integer>();
 		File inputFile= new File(args[0]);
 		
+		
 		int instrSum=0;
 		int instrGlobalTotal=0;
 		
